@@ -10,6 +10,6 @@ namespace NumbersFilterApp
     {
         public const string EnterNumbers = "Enter numbers (type 'done' to finish):";
         public const string InvalidInput = "Invalid number, try again.";
-        public const string Result = "Numbers greater than 5:";.
+        public const string Result = "Numbers greater than 5:";
     }
 }

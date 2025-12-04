@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36623.8 d17.14
+VisualStudioVersion = 17.14.36623.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersFilterApp", "NumbersFilterApp\NumbersFilterApp.csproj", "{D25FCA18-B131-4C70-B87F-B04658066013}"
 EndProject
@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		.gitignor = .gitignor
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersFilterApp.tests", "NumbersFilterApp.tests\NumbersFilterApp.tests.csproj", "{98D345CF-E9FE-4A98-A725-0EBFEAC5C8A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +22,10 @@ Global
 		{D25FCA18-B131-4C70-B87F-B04658066013}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D25FCA18-B131-4C70-B87F-B04658066013}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D25FCA18-B131-4C70-B87F-B04658066013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98D345CF-E9FE-4A98-A725-0EBFEAC5C8A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98D345CF-E9FE-4A98-A725-0EBFEAC5C8A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98D345CF-E9FE-4A98-A725-0EBFEAC5C8A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98D345CF-E9FE-4A98-A725-0EBFEAC5C8A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

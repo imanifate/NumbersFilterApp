@@ -13,17 +13,17 @@ namespace NumbersFilterApp
         public static List<int> ReadNumbersFromUser()
         {
             List<int> numbers = new List<int>();
-            Console.WriteLine(Messages.EnterNumbers);
-
+            ConsoleUserIO.Write(Messages.EnterNumbers);
+            
             while (true)
             {
-                string input = Console.ReadLine();
+                string input = ConsoleUserIO.Read();
                 if (input.ToLower() == "done") break;
 
                 if(int.TryParse(input,out int number))
                     numbers.Add(number);
                 else
-                    Console.WriteLine(Messages.InvalidInput);
+                    ConsoleUserIO.Write(Messages.InvalidInput);
             }
             return numbers;
         }
@@ -36,10 +36,10 @@ namespace NumbersFilterApp
 
        public static void PrintNumbers(List<int> numbers)
         {
-            Console.WriteLine(Messages.Result);
+            ConsoleUserIO.Write(Messages.Result);
 
              foreach (int n in numbers)
-                Console.WriteLine(n); 
+                ConsoleUserIO.Write(n.ToString()); 
            
         }
 

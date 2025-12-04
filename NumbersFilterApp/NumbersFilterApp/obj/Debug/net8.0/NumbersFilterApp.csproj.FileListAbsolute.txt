@@ -7,6 +7,7 @@ F:\d\asp\NumberFilterApp\NumbersFilterApp\NumbersFilterApp\obj\Debug\net8.0\Numb
 F:\d\asp\NumberFilterApp\NumbersFilterApp\NumbersFilterApp\obj\Debug\net8.0\NumbersFilterApp.AssemblyInfoInputs.cache
 F:\d\asp\NumberFilterApp\NumbersFilterApp\NumbersFilterApp\obj\Debug\net8.0\NumbersFilterApp.AssemblyInfo.cs
 F:\d\asp\NumberFilterApp\NumbersFilterApp\NumbersFilterApp\obj\Debug\net8.0\NumbersFilterApp.csproj.CoreCompileInputs.cache
+F:\d\asp\NumberFilterApp\NumbersFilterApp\NumbersFilterApp\obj\Debug\net8.0\NumbersFilterApp.sourcelink.json
 F:\d\asp\NumberFilterApp\NumbersFilterApp\NumbersFilterApp\obj\Debug\net8.0\NumbersFilterApp.dll
 F:\d\asp\NumberFilterApp\NumbersFilterApp\NumbersFilterApp\obj\Debug\net8.0\refint\NumbersFilterApp.dll
 F:\d\asp\NumberFilterApp\NumbersFilterApp\NumbersFilterApp\obj\Debug\net8.0\NumbersFilterApp.pdb
