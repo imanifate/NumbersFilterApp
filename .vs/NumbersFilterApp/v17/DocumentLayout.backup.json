@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\d\\asp\\NumberFilterApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D25FCA18-B131-4C70-B87F-B04658066013}|NumbersFilterApp\\NumbersFilterApp.csproj|f:\\d\\asp\\numberfilterapp\\numbersfilterapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D25FCA18-B131-4C70-B87F-B04658066013}|NumbersFilterApp\\NumbersFilterApp.csproj|solutionrelative:numbersfilterapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D345CF-E9FE-4A98-A725-0EBFEAC5C8A7}|NumbersFilterApp.tests\\NumbersFilterApp.tests.csproj|f:\\d\\asp\\numberfilterapp\\numbersfilterapp.tests\\filterstrategybyoverloadingtests\\numberservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D345CF-E9FE-4A98-A725-0EBFEAC5C8A7}|NumbersFilterApp.tests\\NumbersFilterApp.tests.csproj|solutionrelative:numbersfilterapp.tests\\filterstrategybyoverloadingtests\\numberservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D25FCA18-B131-4C70-B87F-B04658066013}|NumbersFilterApp\\NumbersFilterApp.csproj|f:\\d\\asp\\numberfilterapp\\numbersfilterapp\\filterstrategybyoverloading\\numberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D25FCA18-B131-4C70-B87F-B04658066013}|NumbersFilterApp\\NumbersFilterApp.csproj|solutionrelative:numbersfilterapp\\filterstrategybyoverloading\\numberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D25FCA18-B131-4C70-B87F-B04658066013}|NumbersFilterApp\\NumbersFilterApp.csproj|f:\\d\\asp\\numberfilterapp\\numbersfilterapp\\filterstrategybyoverloading\\consoleuserio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D25FCA18-B131-4C70-B87F-B04658066013}|NumbersFilterApp\\NumbersFilterApp.csproj|solutionrelative:numbersfilterapp\\filterstrategybyoverloading\\consoleuserio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D345CF-E9FE-4A98-A725-0EBFEAC5C8A7}|NumbersFilterApp.tests\\NumbersFilterApp.tests.csproj|f:\\d\\asp\\numberfilterapp\\numbersfilterapp.tests\\filterstrategybyoverloadingtests\\fakeconsoleuserio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D345CF-E9FE-4A98-A725-0EBFEAC5C8A7}|NumbersFilterApp.tests\\NumbersFilterApp.tests.csproj|solutionrelative:numbersfilterapp.tests\\filterstrategybyoverloadingtests\\fakeconsoleuserio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\d\\asp\\NumberFilterApp\\NumbersFilterApp\\Program.cs",
+              "RelativeDocumentMoniker": "NumbersFilterApp\\Program.cs",
+              "ToolTip": "F:\\d\\asp\\NumberFilterApp\\NumbersFilterApp\\Program.cs",
+              "RelativeToolTip": "NumbersFilterApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T00:16:59.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleUserIO.cs",
+              "DocumentMoniker": "F:\\d\\asp\\NumberFilterApp\\NumbersFilterApp\\FilterStrategyByOverloading\\ConsoleUserIO.cs",
+              "RelativeDocumentMoniker": "NumbersFilterApp\\FilterStrategyByOverloading\\ConsoleUserIO.cs",
+              "ToolTip": "F:\\d\\asp\\NumberFilterApp\\NumbersFilterApp\\FilterStrategyByOverloading\\ConsoleUserIO.cs",
+              "RelativeToolTip": "NumbersFilterApp\\FilterStrategyByOverloading\\ConsoleUserIO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T00:04:44.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NumberService.cs",
+              "DocumentMoniker": "F:\\d\\asp\\NumberFilterApp\\NumbersFilterApp\\FilterStrategyByOverloading\\NumberService.cs",
+              "RelativeDocumentMoniker": "NumbersFilterApp\\FilterStrategyByOverloading\\NumberService.cs",
+              "ToolTip": "F:\\d\\asp\\NumberFilterApp\\NumbersFilterApp\\FilterStrategyByOverloading\\NumberService.cs",
+              "RelativeToolTip": "NumbersFilterApp\\FilterStrategyByOverloading\\NumberService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T23:43:19.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FakeConsoleUserIO.cs",
+              "DocumentMoniker": "F:\\d\\asp\\NumberFilterApp\\NumbersFilterApp.tests\\FilterStrategyByOverloadingTests\\FakeConsoleUserIO.cs",
+              "RelativeDocumentMoniker": "NumbersFilterApp.tests\\FilterStrategyByOverloadingTests\\FakeConsoleUserIO.cs",
+              "ToolTip": "F:\\d\\asp\\NumberFilterApp\\NumbersFilterApp.tests\\FilterStrategyByOverloadingTests\\FakeConsoleUserIO.cs",
+              "RelativeToolTip": "NumbersFilterApp.tests\\FilterStrategyByOverloadingTests\\FakeConsoleUserIO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T23:25:08.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NumberServiceTests.cs",
+              "DocumentMoniker": "F:\\d\\asp\\NumberFilterApp\\NumbersFilterApp.tests\\FilterStrategyByOverloadingTests\\NumberServiceTests.cs",
+              "RelativeDocumentMoniker": "NumbersFilterApp.tests\\FilterStrategyByOverloadingTests\\NumberServiceTests.cs",
+              "ToolTip": "F:\\d\\asp\\NumberFilterApp\\NumbersFilterApp.tests\\FilterStrategyByOverloadingTests\\NumberServiceTests.cs",
+              "RelativeToolTip": "NumbersFilterApp.tests\\FilterStrategyByOverloadingTests\\NumberServiceTests.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T23:13:00.179Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
