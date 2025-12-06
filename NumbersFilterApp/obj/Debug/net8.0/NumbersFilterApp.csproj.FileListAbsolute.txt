@@ -1,0 +1,15 @@
+F:\d\asp\NumberFilterApp\NumbersFilterApp\bin\Debug\net8.0\NumbersFilterApp.exe
+F:\d\asp\NumberFilterApp\NumbersFilterApp\bin\Debug\net8.0\NumbersFilterApp.deps.json
+F:\d\asp\NumberFilterApp\NumbersFilterApp\bin\Debug\net8.0\NumbersFilterApp.runtimeconfig.json
+F:\d\asp\NumberFilterApp\NumbersFilterApp\bin\Debug\net8.0\NumbersFilterApp.dll
+F:\d\asp\NumberFilterApp\NumbersFilterApp\bin\Debug\net8.0\NumbersFilterApp.pdb
+F:\d\asp\NumberFilterApp\NumbersFilterApp\obj\Debug\net8.0\NumbersFilterApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\d\asp\NumberFilterApp\NumbersFilterApp\obj\Debug\net8.0\NumbersFilterApp.AssemblyInfoInputs.cache
+F:\d\asp\NumberFilterApp\NumbersFilterApp\obj\Debug\net8.0\NumbersFilterApp.AssemblyInfo.cs
+F:\d\asp\NumberFilterApp\NumbersFilterApp\obj\Debug\net8.0\NumbersFilterApp.csproj.CoreCompileInputs.cache
+F:\d\asp\NumberFilterApp\NumbersFilterApp\obj\Debug\net8.0\NumbersFilterApp.sourcelink.json
+F:\d\asp\NumberFilterApp\NumbersFilterApp\obj\Debug\net8.0\NumbersFilterApp.dll
+F:\d\asp\NumberFilterApp\NumbersFilterApp\obj\Debug\net8.0\refint\NumbersFilterApp.dll
+F:\d\asp\NumberFilterApp\NumbersFilterApp\obj\Debug\net8.0\NumbersFilterApp.pdb
+F:\d\asp\NumberFilterApp\NumbersFilterApp\obj\Debug\net8.0\NumbersFilterApp.genruntimeconfig.cache
+F:\d\asp\NumberFilterApp\NumbersFilterApp\obj\Debug\net8.0\ref\NumbersFilterApp.dll
